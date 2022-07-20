@@ -1,0 +1,183 @@
+body{
+    margin: 0;
+}
+
+
+/* Navbar And Introductions */
+
+
+.myntra-navbar{
+    background-color: white;
+    height: 80px;
+
+
+
+}
+
+.myntra-logo{
+    width: 120px;
+    height:45px;
+}
+.align-center{
+    align-items: center;
+}
+
+.fonts{
+    font-weight: 500;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.font-color-navbar{
+    color: black;
+}
+
+.font-color-navbar:hover{
+    color: grey;
+}
+
+.search-bar{
+    width: 550px;
+}
+.form-control{
+    background-color: #EEEEEE;
+}
+
+.btn-xxs{
+    padding-right: 35px;
+}
+
+
+/* Slides and Pictures of myntra */
+.firstpic{
+    height: 430px;
+    
+}
+
+.container2{
+    background-color: #EEEEEE;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+  
+.container3{
+    background-color: #EEEEEE;
+    text-align: center;
+    
+    
+    padding-bottom: 40px;
+}
+
+.first-text{
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    font-weight: 800;
+    padding-bottom: 10px;
+}
+
+.viewall-button{
+    font-size: 12px;
+    font-weight: 700;
+    width: 120px;
+}
+
+
+.container4{
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+.second-section{
+    position: static;
+    z-index: -1;
+}
+
+.container5{
+    padding-top: 40px;
+    background-color: #EEEEEE;
+    text-align: center;
+    
+}
+
+.second-text{
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    font-weight: 800;
+    padding-bottom: 40px;
+}
+
+.containers5{
+    text-align: center;
+}
+
+.ok{
+    padding-bottom: 40px;
+}
+
+
+
+
+/* Footer Section */
+.container6{
+    background-color: white;
+    padding-top: 40px;
+    padding-left: 150px;
+    padding-right: 150px;
+    height:500px;
+    border: none;
+}
+
+.first-card{
+    width: 180px;
+
+    
+}
+
+.card-items{
+    font-size: 14px;
+    color: grey;
+    line-height: 0.75rem;
+
+
+}
+
+.card-title1{
+    font-size: 13px;
+    
+}
+
+
+.second-card{
+    width: 180px;
+
+}
+
+.third-card{
+    width: 265px;
+}
+
+.android-button{
+    margin-bottom: 20px;
+}
+
+.first-span{
+    padding-left: 5px;
+}
+.iphone-button{
+    width: 165.1px;
+}
+
+.fourth-card{
+    width: 250px;
+
+}
+.app-icons{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.app-icon{
+    padding-right: 8px;
+}
